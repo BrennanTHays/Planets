@@ -2,7 +2,5 @@ Cold and dry, and everything is red.
 I see two moons in the sky. 
 I see a rover at my feet.
 Who doesn't?
-=======
 And the cockroaches are coming for me.
-Who doesn't?
->>>>>>> 0ad14053d48d782b0cb16931df97b2ab08d4bf6c
+Who doesn't? Part 2
